@@ -1,7 +1,7 @@
 ![logo](https://github.com/Surajtalole/Surajtalole/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Suraj Talole</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXE9gqS0uUrd7GTDicD2nV_VZt63LibxIX8Q&s"></img>
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG92OG55dm9xcWJxbDAxejJsdjVqYTBhdmczbmF1ZzRxNjkycXM5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajtalole&label=Profile%20views&color=0e75b6&style=flat" alt="surajtalole" /> </p>
 
