@@ -1,3 +1,4 @@
+![logo](https://github.com/Surajtalole/Surajtalole/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Suraj Talole</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXE9gqS0uUrd7GTDicD2nV_VZt63LibxIX8Q&s"></img>
