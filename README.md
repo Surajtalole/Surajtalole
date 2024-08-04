@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **talolesuraj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SGny572Y6MBvL3S8Tvep8QIG6qndtd2v/view?usp=sharing)
+- 📄 Know about my experiences [https://surajtalole.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
